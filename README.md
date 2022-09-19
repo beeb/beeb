@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beeb" alt="beeb" /></a> </p>
 
-- 🔭 I’m currently working on [pancaketrade](https://github.com/beeb/pancaketrade)
+- 🔭 I’m currently working on [lp-rescue](https://github.com/beeb/lp-rescue-frontend)
 
 - 🌱 I’m currently learning **rust**
 
