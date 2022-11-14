@@ -20,6 +20,7 @@
 <a href="https://dev.to/beeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="beeb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vbersier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vbersier" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/3446439" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3446439" height="30" width="40" /></a>
+<a rel="me" href="https://hachyderm.io/@beeb" target="_blank">Mastodon</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,3 +29,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beeb&show_icons=true&theme=dark&locale=en&layout=compact" alt="beeb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beeb&show_icons=true&theme=dark&locale=en" alt="beeb" /></p>
+
