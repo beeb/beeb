@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beeb" alt="beeb" /></a> </p>
 
-- 🔭 I’m currently working on [svelte-wol](https://github.com/beeb/svelte-wol)
+- 🔭 I’m currently working on [Advent of Code 2022](https://github.com/beeb/aoc-2022)
 
 - 🌱 I’m currently learning **rust**
 
