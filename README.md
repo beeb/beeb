@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beeb" alt="beeb" /></a> </p>
 
-- 🔭 I’m currently working on internal tools at MM-Welding
+- 🔭 I’m currently working on [remote-wol-rs](https://github.com/beeb/remote-wol-rs)
 
 - 🌱 I’m currently learning **rust**
 
