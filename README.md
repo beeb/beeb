@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [remote-wol-rs](https://github.com/beeb/remote-wol-rs)
 
-- 🌱 I’m currently learning **rust**
-
 - 💬 Ask me about **svelte/kit,astro, golang, web3, solidity, python**
 
 - 📫 How to reach me **vbersier@gmail.com**
