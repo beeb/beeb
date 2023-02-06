@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [remote-wol-rs](https://github.com/beeb/remote-wol-rs)
 
-- 💬 Ask me about **svelte/kit,astro, rust, golang, web3, solidity, python**
+- 💬 Ask me about **svelte/kit, astro, rust, golang, web3, solidity, python**
 
 - 📫 How to reach me **vbersier@gmail.com**
 
