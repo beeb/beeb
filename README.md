@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beeb" alt="beeb" /></a> </p>
 
-- 🔭 I’m currently working on [awsbck-rs]([https://github.com/beeb/remote-wol-rs](https://github.com/beeb/awsbck-rs))
+- 🔭 I’m currently working on [awsbck-rs](https://github.com/beeb/awsbck-rs)
 
 - 💬 Ask me about **svelte/kit, astro, rust, golang, web3, solidity, python**
 
