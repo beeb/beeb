@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on [awsbck](https://github.com/beeb/awsbck)
 
+- 🌱 I’m currently learning [tauri](https://tauri.app/)
+
 - 💬 Ask me about **svelte/kit, astro, rust, golang, web3, solidity, python**
 
 - 📫 How to reach me **vbersier@gmail.com**
