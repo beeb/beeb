@@ -11,13 +11,12 @@
 
 - 💬 Ask me about **svelte/kit, astro, rust, golang, web3, solidity, python**
 
-- 📫 How to reach me **vbersier@gmail.com**
+- 📫 How to reach me **hi@beeb.li**
 
 - ⚡ Fun fact **Gruyère cheese doesn't have holes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/beeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="beeb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vbersier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vbersier" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/3446439" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3446439" height="30" width="40" /></a>
 <a rel="me" href="https://hachyderm.io/@beeb" target="_blank">Mastodon</a>
