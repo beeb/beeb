@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beeb" alt="beeb" /></a> </p>
 
-<!-- - 🔭 I’m currently working on [typst-lsp](https://github.com/nvarner/typst-lsp) --!>
+<!--
+- 🔭 I’m currently working on [typst-lsp](https://github.com/nvarner/typst-lsp)
+-->
 
 - 🌱 I’m currently learning [nix](https://nixos.org/)
 
