@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Val</h1>
 <h3 align="center">A self-taught and experiment-driven developer from Switzerland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beeb&label=Profile%20views&color=0e75b6&style=flat" alt="beeb" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beeb" alt="beeb" /></a> </p>
-
 - 🌱 I’m currently learning **[nix](https://nixos.org/)**
 
 - 🔨 Currently working on **[soldeer](https://github.com/mario-eth/soldeer)**
