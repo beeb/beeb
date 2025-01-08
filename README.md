@@ -5,7 +5,7 @@
 
 - 🔨 Currently working on **[soldeer](https://github.com/mario-eth/soldeer)**
 
-- 💬 Ask me about **svelte/kit, astro, rust, golang, web3, solidity, python**
+- 💬 Ask me about **rust, svelte/kit, web3, solidity, python**
 
 - 📫 How to reach me **hi@beeb.li**
 
