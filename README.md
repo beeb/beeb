@@ -22,7 +22,7 @@
 ![Python](https://img.shields.io/badge/python-ffd94e?style=for-the-badge&logo=python)
 ![Go](https://img.shields.io/badge/go-00aed9?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-777bb3?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-green?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-316891?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongo-00684a?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Matlab](https://img.shields.io/badge/matlab-orange?style=for-the-badge)
 
