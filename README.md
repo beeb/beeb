@@ -28,6 +28,7 @@
 
 ![SvelteKit](https://img.shields.io/badge/sveltekit-white?style=for-the-badge&logo=svelte)
 ![TailwindCSS](https://img.shields.io/badge/tailwind-1ab6bd?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/docker-006eb5?style=for-the-badge&logo=docker&logoColor=white)
 ![Nix](https://img.shields.io/badge/nix-4c6fb5?style=for-the-badge&logo=nixos&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-gray?style=for-the-badge&logo=linux)
