@@ -28,11 +28,12 @@
 ![SvelteKit](https://img.shields.io/badge/sveltekit-white?style=for-the-badge&logo=svelte)
 ![TailwindCSS](https://img.shields.io/badge/tailwind-1ab6bd?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-006eb5?style=for-the-badge&logo=docker&logoColor=white)
+![Nix](https://img.shields.io/badge/nix-4c6fb5?style=for-the-badge&logo=nixos&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-gray?style=for-the-badge&logo=linux)
 
 ![Blender](https://img.shields.io/badge/blender-eb750d?style=for-the-badge&logo=blender&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/photoshop-blue?style=for-the-badge)
 ![Illustrator](https://img.shields.io/badge/illustrator-orange?style=for-the-badge)
-![Linux](https://img.shields.io/badge/linux-gray?style=for-the-badge&logo=linux)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beeb&show_icons=true&theme=dark&locale=en&layout=compact" alt="beeb" /></p>
 
