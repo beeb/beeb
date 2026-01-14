@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Val</h1>
 <h3 align="center">A self-taught and experiment-driven developer from Switzerland</h3>
 
-- 🌱 I’m currently learning **[nix](https://nixos.org/)**
 - 🔨 Currently working on **[lintspec](https://github.com/beeb/lintspec)**
+- 🌱 I’m currently learning **[nix](https://nixos.org/)**
 - 💬 Ask me about **rust, svelte/kit, web3, solidity, python**
 - 📫 How to reach me **hi@beeb.li**
 - ⚡ Fun fact **Gruyère cheese doesn't have holes**
+- 📝 I sometimes write on **[beeb.li](https://beeb.li/blog)**
 
 ### Connect with me
 
