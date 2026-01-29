@@ -38,6 +38,6 @@
 ![Photoshop](https://img.shields.io/badge/photoshop-blue?style=for-the-badge)
 ![Illustrator](https://img.shields.io/badge/illustrator-orange?style=for-the-badge)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beeb&show_icons=true&theme=dark&locale=en&layout=compact" alt="beeb" /></p>
+<p><img align="left" src="./profile/top-langs.svg" alt="beeb" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beeb&show_icons=true&theme=dark&locale=en" alt="beeb" /></p>
+<p>&nbsp;<img align="center" src="./profile/stats.svg" alt="beeb" /></p>
