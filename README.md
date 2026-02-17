@@ -11,8 +11,8 @@
 ### Connect with me
 
 - [Mastodon](https://hachyderm.io/@beeb)
-- [LinkedIn](https://linkedin.com/in/vbersier)
 - [CodeBerg](https://codeberg.org/beeb)
+- [Blog](https://beeb.li/blog)
 
 ### Languages and Tool
 
