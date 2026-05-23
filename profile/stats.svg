@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Valentin B.'s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 470, Total Commits  (last year) : 1035, Total PRs: 829, Total Issues: 344, Contributed to (last year): 46</desc>
+        <desc id="descId">Total Stars Earned: 473, Total Commits  (last year) : 1035, Total PRs: 829, Total Issues: 344, Contributed to (last year): 45</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 12.254689442930932;
+        stroke-dashoffset: 12.208482755865303;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >470</text>
+      >473</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >46</text>
+      >45</text>
     </g>
   </g>
     </svg>
