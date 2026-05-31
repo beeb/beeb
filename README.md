@@ -2,8 +2,7 @@
 <h3 align="center">A self-taught and experiment-driven developer from Switzerland</h3>
 
 - 🔨 Currently working on **[swpui](https://github.com/beeb/swpui)**
-- 🌱 I’m currently learning **[nix](https://nixos.org/)**
-- 💬 Ask me about **rust, svelte/kit, web3, solidity, python**
+- 💬 Ask me about **rust, nix, svelte/kit**
 - 📫 How to reach me **hi@beeb.li**
 - ⚡ Fun fact **Gruyère cheese doesn't have holes**
 - 📝 I sometimes write on **[beeb.li](https://beeb.li/blog)**
