@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Val</h1>
 <h3 align="center">A self-taught and experiment-driven developer from Switzerland</h3>
 
-- 🔨 Currently working on **[swpui](https://github.com/beeb/swpui)**
+- 🔨 Currently working on **[nts-player](https://github.com/beeb/nts-player)**
 - 💬 Ask me about **rust, nix, svelte/kit**
 - 📫 How to reach me **hi@beeb.li**
 - ⚡ Fun fact **Gruyère cheese doesn't have holes**
